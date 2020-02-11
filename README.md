@@ -1,4 +1,6 @@
 # MiniTowerDefense
+jQuery에 익숙해지기 위해 만든 심플한 타워디펜스 게임 프로젝트입니다. 차차 코드를 효율적으로 개선할 예정입니다.
+
 ## Contributors
 - Roar-Song
 - 97-Hyun
