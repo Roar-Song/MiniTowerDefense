@@ -26,3 +26,7 @@ Link: [OpenGameArt](https://opengameart.org/)
 - 타워 투사체 구현
 - Map Quality 개선
 - 타워 공격 판정 코드 개선
+
+## Issues
+- 몬스터 사망 이미지 출력 오류
+- 데미지 초당 판정으로 인한 이미지와의 싱크 안맞음
