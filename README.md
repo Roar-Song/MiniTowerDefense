@@ -7,9 +7,9 @@ jQuery에 익숙해지기 위해 만든 심플한 타워디펜스 게임 프로�
 ![image (2)](https://user-images.githubusercontent.com/57061848/74220720-aa879e80-4cf3-11ea-97da-8daf04bd16bb.png)
 
 ## Contributors
-- Roar-Song
-- 97-Hyun
-- kth5865
+- Roar-Song : 타워 관련 코드
+- 97-Hyun : 몹 관련 코드
+- kth5865 : 맵 관련 코드
 
 ## Use Language
 - html, css, javascript
